@@ -11,5 +11,4 @@ By authentication and authorization, a user can only edit/delete its own posting
 
 ## More
 
-Frontend - Firebase
-Backend - render
+Frontend - Firebase, Backend - render
